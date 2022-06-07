@@ -3,4 +3,6 @@ layout: layouts/page.njk
 title: About Me
 ---
 
-I am a person that writes stuff.
+Hi. I'm Jan-Willem Boelens. I have a cat named Bob. I don't need a website, but here we are. I <s>hate all</s> don't have any social media.
+
+This website is built with Eleventy.
