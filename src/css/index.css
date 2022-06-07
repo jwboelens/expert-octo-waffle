@@ -1,11 +1,11 @@
 body {
   font-family: -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial, sans-serif;
-  font-size: clamp(16px, 1.5vw, 18px);
+  font-size: clamp(16px, 1.5vw, 16px);
   line-height: 1.5;
   max-width: 32em;
   margin: 0 auto;
   padding: 2.5em 1.5em;
-  color: #343434;
+  color: #181818;
 }
 header, intro {
   margin: 0 0 5rem;
