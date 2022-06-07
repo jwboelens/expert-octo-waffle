@@ -1,21 +1,5 @@
-@font-face {
-  font-family: "Blanco";
-  src: url("/Blanco-Regular.woff2") format("woff2"),
-    url("/Blanco-Regular.woff") format("woff");
-  font-weight: 400;
-  font-style: normal;
-  font-stretch: normal;
-}
-@font-face {
-  font-family: "Blanco";
-  src: url("/Blanco-Italic.woff2") format("woff2"),
-    url("/Blanco-Italic.woff") format("woff");
-  font-weight: 400;
-  font-style: italic;
-  font-stretch: normal;
-}
 body {
-  font-family: "Blanco";
+  font-family: -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial, sans-serif;
   font-size: clamp(16px, 1.5vw, 18px);
   line-height: 1.5;
   max-width: 32em;
