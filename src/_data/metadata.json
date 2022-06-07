@@ -8,5 +8,14 @@
     "filename": "feed.xml",
     "path": "/feed.xml",
     "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "path": "/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  },
+  "author": {
+    "name": "Chase McCoy",
+    "email": "hi@chasem.co",
+    "url": "https://chasem.co"
   }
 }
