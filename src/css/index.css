@@ -64,15 +64,15 @@ hr {
   border: none;
   border-top: 1px solid #d5d5d5;
 }
-postlink {
-  display: block;
-  margin: 0 0 10px;
+.postlist-item {
+  list-style: none;
 }
-postlink a {
-  text-decoration: none;
+.postlist-link {
+  color: inherit;
 }
-postlink date {
-  margin: .2rem 0;
+.postlist-date {
+  font-size: small;
+  color: #999;
 }
 .star {
   width: 13px;
