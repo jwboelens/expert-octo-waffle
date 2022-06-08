@@ -4,7 +4,7 @@ description: List of goals and ideas for Q3 of 2022.
 date: 2022-06-08
 ---
 
-Here is a list of things I want to do before this year ends.
+Here is a list of things I want to do in Q3 2022, that's July, Augustus and September.
 
 - Less Netflix / HBO Max / YouTube / Disney+
 - More Spotify / music in general
