@@ -70,7 +70,9 @@ hr {
   list-style: none;
 }
 .postlist-link {
-  color: inherit;
+  color: #181818;
+  text-decoration: none;
+  border-bottom: 1px dotted #181818;
 }
 .postlist-date {
   font-size: small;
