@@ -1,6 +1,6 @@
 ---
-title: Goals
-description: List of goals and ideas for the coming 6 months.
+title: Goals for Q3 2022
+description: List of goals and ideas for Q3 of 2022.
 date: 2022-06-08
 ---
 
